@@ -154,8 +154,16 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+<<<<<<< HEAD
 Adelayo Oseni - [Github](https://github.com/arraycoded12)  
 Uche Adaeze - [Github](https://github.com/ucheadaeze)  
+=======
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
+Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Uche Igbokwe - [Github] (https://github.com/Ucheadaeze) / [Mail} (ucheigbokwe25@gmail.com)
+>>>>>>> 5b8c99ccd2f40b4405d7611e6a765771125b111b
 
  Airbnb: Joann Vuong
 ## License
